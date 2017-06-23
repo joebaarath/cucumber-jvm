@@ -1,0 +1,3 @@
+[submodule "examples/cucumber-java-skeleton"]
+	path = examples/cucumber-java-skeleton
+	url = https://github.com/joebaarath/cucumber-java-skeleton.git
